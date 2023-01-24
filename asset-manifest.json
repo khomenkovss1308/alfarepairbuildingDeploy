@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alfarepairbuildingDeploy/static/css/main.c9d8059e.css",
+    "main.js": "/alfarepairbuildingDeploy/static/js/main.7799ce4e.js",
+    "static/media/fon.png": "/alfarepairbuildingDeploy/static/media/fon.b1ee0d9861378db2b9a7.png",
+    "static/media/topas-c.png": "/alfarepairbuildingDeploy/static/media/topas-c.0b9deebccac4ca3ffd1c.png",
+    "static/media/img.png": "/alfarepairbuildingDeploy/static/media/img.5dcc59a6c2f67feb74ce.png",
+    "static/media/white-clouds.png": "/alfarepairbuildingDeploy/static/media/white-clouds.159d4f2da025d7f3028d.png",
+    "static/media/221.png": "/alfarepairbuildingDeploy/static/media/221.4bc359dc55367456ce56.png",
+    "static/media/otv4.png": "/alfarepairbuildingDeploy/static/media/otv4.8726fd20b7cfffa9cb64.png",
+    "static/media/product.png": "/alfarepairbuildingDeploy/static/media/product.1e5909200ac8446e94bc.png",
+    "static/media/92.png": "/alfarepairbuildingDeploy/static/media/92.4d9430722f87c9d88a31.png",
+    "static/media/89.png": "/alfarepairbuildingDeploy/static/media/89.c7291ee7a42464ed4344.png",
+    "static/media/91.png": "/alfarepairbuildingDeploy/static/media/91.07eed5e66977fa836741.png",
+    "static/media/logo.png": "/alfarepairbuildingDeploy/static/media/logo.5ae5bba1423ae5af907b.png",
+    "static/media/footer-logo-dark.png": "/alfarepairbuildingDeploy/static/media/footer-logo-dark.ee7ac068235a31f12fe0.png",
+    "index.html": "/alfarepairbuildingDeploy/index.html",
+    "main.c9d8059e.css.map": "/alfarepairbuildingDeploy/static/css/main.c9d8059e.css.map",
+    "main.7799ce4e.js.map": "/alfarepairbuildingDeploy/static/js/main.7799ce4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9d8059e.css",
+    "static/js/main.7799ce4e.js"
+  ]
+}
