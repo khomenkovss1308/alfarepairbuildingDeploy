@@ -1,0 +1,6 @@
+export { Header } from './Header'
+export { Footer } from './Footer'
+export { Cards } from './Cards'
+export { Feedback } from './Feedback'
+export { Product } from './Product'
+export { Carousel } from './Carusel'

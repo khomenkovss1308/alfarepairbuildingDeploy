@@ -1,0 +1,33 @@
+.cards_title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    margin: 0 170px;
+    color: #363636;
+    margin-bottom: 77px;
+}
+
+.wrapper_cards {
+    display: flex;
+}
+
+.cards_img-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cards_img-group_vosduh {
+    background-image: url(../../../../public/img/otv4.png);
+    width: 400px;
+    height: 250px;
+}
+
+.cards_img-group_truba {
+    width: 235px;
+    height: 272px;
+    background-image: url(../../../../public/img/221.png);
+}

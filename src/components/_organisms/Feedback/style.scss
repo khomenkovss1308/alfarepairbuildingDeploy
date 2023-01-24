@@ -1,0 +1,48 @@
+.feedback {
+    display: flex;
+    &_img {
+        background-image: url(../../../../public/img/img.png);
+        width: 808px;
+        height: 706px;
+        margin-top: 31px;
+    }
+}
+
+.feedback_form {
+    display: flex;
+    flex-direction: column;
+    margin: 178px 0 114px 301px;
+}
+
+.form_desc {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 47px;
+    color: #000000;
+}
+
+.form_title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 52px;
+    margin: 0 0 20px;
+    color: #363636; 
+}
+
+.test {
+    background-image: url(../../../../public/img/white-clouds.png);
+}
+
+.input-big {
+    border: 1px solid #319F1C;
+    border-radius: 3px;
+    width: 400px;
+    height: 98px;
+    padding: 0 30px;
+    margin-bottom: 20px;
+ }

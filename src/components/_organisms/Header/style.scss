@@ -1,0 +1,116 @@
+.logo {
+    width: 297px;
+    height: 60px;
+    background-image: url(../../../../public/img/logo.png);
+}
+
+.header {
+    margin: 0 170px;
+    &_work-time {
+        width: 185px;
+        height: 48px;
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #000000;
+    }
+    &_order-logo {
+        width: 64px;
+        height: 64px;
+    }
+    &_order-text {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 21px;
+
+        color: #000000;
+    }
+}
+
+.header_wrapper {
+    padding-top: 26px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 29px;
+}
+
+.header_order-logo {
+    width: 64px;
+    height: 64px;
+    background-image: url(../../../../public/img/order.png);
+}
+
+.header_order {
+    display: flex;
+}
+
+.header_order-text {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+    border-bottom: 1px solid #000000;
+    margin-left: 8px;
+}
+
+.phone_wrapper {
+    display: flex;
+}
+
+.phone_link {
+    margin-top: 5px;
+}
+
+.phone_logo {
+    background-image: url(../../../../public/img/phone.png);
+    width: 70px;
+    height: 69px;
+}
+
+.phone-number {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 27px;
+    color: #363130;
+    margin-bottom: 6px;
+    margin-left: 6px;
+}
+
+.link_img-group {
+    background-image: url(../../../../public/img/group-link.png);
+    width: 125.52px;
+    height: 27.21px;
+    margin-left: 35px;
+}
+
+.header_btn {
+    background: #319F1C;
+    box-shadow: 0px 4px 5px #319F1C;
+    border-radius: 6px;
+    width: 238px;
+    height: 64px;
+    border: 0;
+    margin-left: 31px;
+}
+
+.link_btn {
+    display: flex;
+}
+
+.header_btn-text {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}

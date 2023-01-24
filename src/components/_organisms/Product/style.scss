@@ -1,0 +1,237 @@
+.product {
+    margin: 69px 0;
+    display: flex;
+
+    &_title {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 38px;
+        line-height: 52px;
+        color: #363636;
+    }
+    &_desc{
+        display: flex;
+        margin-top: 78px;
+
+        &_img-group {
+            background-image: url(../../../../public/img/topas-c.png);
+            width: 671px;
+            height: 435px;
+            border-radius: 3px;
+            margin-right: 78px;
+        }
+    }
+ }
+
+ .product_desc_property {
+    display: flex;
+ }
+
+ .product_desc_property_title {
+    display: flex;
+    flex-direction: column;
+    margin-right: 121px;
+ }
+
+ .product_desc_property_desc {
+    display: flex;
+    flex-direction: column;
+ }
+
+ .text2 {
+    margin-bottom: 30px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+ }
+
+ .desc2 {
+    margin-bottom: 30px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+ }
+
+ .product_desc_img-group_zoom {
+   width: 65px;
+   height: 65px;
+   margin-top: 370px;
+   float:right;
+   background-image: url(../../../../public/img/zoom.png);
+ }
+
+ .product_desc_price {
+   width: 239px;
+   height: 81px;
+   border: 1px solid #319F1C;
+   border-radius: 3px;
+   display: flex;
+   justify-content: center;
+   margin-top: 99px;
+}
+
+.product_desc_price_desc {
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 900;
+   font-size: 28px;
+   line-height: 34px;
+   margin: auto 0;
+   color: #319F1C;
+}
+
+.product_desc_price_title {
+   font-family: 'Raleway';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 21px;
+
+   color: #000000;
+   margin: auto 16px;
+}
+
+.feedback_description_form_text {
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 800;
+   font-size: 24px;
+   line-height: 29px;
+   margin-bottom: 31px;
+   color: #363636;
+}
+
+.feedback_description_form {
+   display: flex;
+   flex-direction: column;
+}
+
+.product-description_title {
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 800;
+   font-size: 24px;
+   line-height: 29px;
+   margin-bottom: 26px;
+   color: #363636;
+}
+
+.product-description_desc {
+   width: 604px;
+   height: 224px;
+   font-family: 'Raleway';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 28px;
+   color: #000000;
+}
+
+.product-description {
+   display: flex;
+   flex-direction: column;
+   margin-left: 433px;
+}
+
+.feedback_description {
+   display: flex;
+   margin-top: 54px;
+}
+
+.text12 {
+   font-family: 'Raleway';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16px;
+   line-height: 19px;
+   color: #FFFFFF;
+}
+
+.feedback_description_form_btn {
+   background: #319F1C;
+   box-shadow: 0px 4px 8px #64BC45;
+   border-radius: 3px;
+   border: 0;
+   height: 45px;
+}
+
+.calc {
+   background-image: url(../../../../public/img/calc.png);
+   width: 87px;
+   height: 64px;
+}
+
+.binoculars {
+   background-image: url(../../../../public/img/binoculars.png);
+   width: 87px;
+   height: 64px;
+}
+
+.circul {
+   background-image: url(../../../../public/img/circul.png);
+   width: 87px;
+   height: 64px;
+}
+
+.worker {
+   background-image: url(../../../../public/img/worker.png);
+   width: 87px;
+   height: 64px;
+}
+
+.prd {
+   margin-left: 170px;
+}
+
+.product-img {
+   margin: 0;
+}
+
+.img_group2 {
+   height: 435px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   margin-right: 23px;
+}
+
+.img1 {
+   background-image: url(../../../../public/img/89.png);
+   width: 134px;
+   height: 93px;
+   border-radius: 3px;
+}
+
+.img2 {
+   background-image: url(../../../../public/img/topas-c.png);
+   width: 134px;
+   height: 93px;
+   border-radius: 3px;
+}
+
+.img3 {
+   background-image: url(../../../../public/img/91.png);
+   width: 134px;
+   height: 93px;
+   border-radius: 3px;
+}
+
+.img4 {
+   background-image: url(../../../../public/img/92.png);
+   width: 134px;
+   height: 93px;
+   border-radius: 3px;
+}
+
+.img_zoom_group {
+   display: flex;
+}

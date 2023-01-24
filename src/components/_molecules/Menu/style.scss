@@ -1,0 +1,24 @@
+.menu {
+    width: 100%;
+    height: 64px;
+    background: linear-gradient(90deg, rgba(246, 246, 246, 0) 1.47%, rgba(163, 210, 155, 0.92) 7.25%, #319F1C 14.68%, #309E1B 50.68%, #319F1C 84.33%, rgba(147, 202, 137, 0.79) 91.68%, rgba(246, 246, 246, 0) 99.05%);
+    border-radius: 3px;
+
+    &_item {
+        // margin-left: 162px;
+        margin-top: 22px;
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        color: #FFFFFF;
+        width: 114px;
+    }
+}
+
+.wrapper_menu {
+    display: flex;
+    margin: 0 268px;
+    justify-content: space-between;
+}
